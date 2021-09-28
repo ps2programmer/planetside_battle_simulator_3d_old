@@ -1,1 +1,2 @@
-# planetside_battle_simulator_3d
+# Planetside Battle Simulator 3D
+
