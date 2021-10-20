@@ -135,6 +135,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de0d5ae3b7169884fa5b12ebb8ad5688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  <deathMarkerPrefab>k__BackingField: {fileID: 7504187604679278175, guid: cc2617b4ddbc94549be30cc600ad2182, type: 3}
+  <killMarkerPrefab>k__BackingField: {fileID: 1488821613374367988, guid: f5bd4e66c76ee154ca0f66e4469312b0, type: 3}
 --- !u!114 &8083363414414297156
 MonoBehaviour:
   m_ObjectHideFlags: 0
